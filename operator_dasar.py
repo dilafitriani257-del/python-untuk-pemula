@@ -1,0 +1,10 @@
+a, b = 10, 3
+print("Tambah:", a + b)
+print("Kurang:", a - b)
+print("Kali:", a * b)
+print("Bagi:", a / b)
+print("Bagi bulat:", a // b)
+print("Sisa bagi:", a % b)
+print("Pangkat:", a ** b)
+print("Lebih besar?", a > b)
+print("Dan/Atau:", a > 5 and b < 5, a > 5 or b > 5)
